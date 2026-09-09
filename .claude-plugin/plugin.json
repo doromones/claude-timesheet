@@ -1,0 +1,18 @@
+{
+  "name": "timesheet",
+  "version": "0.4.0",
+  "description": "Track active working time across Claude Code sessions, broken down by session, git branch, or calendar day.",
+  "skills": "./skills/",
+  "author": {
+    "name": "doromones"
+  },
+  "homepage": "https://github.com/doromones/claude-timesheet",
+  "license": "MIT",
+  "keywords": [
+    "timesheet",
+    "time-tracking",
+    "sessions",
+    "productivity",
+    "reporting"
+  ]
+}

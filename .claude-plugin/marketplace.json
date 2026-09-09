@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-timesheet",
+  "description": "Time tracking for Claude Code sessions.",
+  "owner": {
+    "name": "doromones"
+  },
+  "plugins": [
+    {
+      "name": "timesheet",
+      "description": "Track active working time across Claude Code sessions, broken down by session, git branch, or calendar day.",
+      "author": {
+        "name": "doromones"
+      },
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
